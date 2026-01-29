@@ -17,11 +17,16 @@
 
 ###  - URL
 
-<blockquote><a href="https://www.hadbetter.cloud/">hadbetter.cloud</a></blockquote>
+<blockquote><a href="https://www.hadbetter.cloud/">https://www.hadbetter.cloud</a></blockquote>
 
 ### 프로젝트 소개
 
-**HAD BETTER** - 대중교통 경로 레이싱 서비스
+### - Medium
+<blockquote><a href="https://medium.com/@ruciano77/siliconvalley-bootcamp-team-h-had-better-adf553d2e1bd?postPublishedType=repub">Had-Better-Medium</a></blockquote>
+
+</br>
+
+## **Had Better** - 대중교통 경로 레이싱 서비스
 
 사용자가 실제 이동 경로와 가상 봇(실시간 대중교통 데이터 기반)이 경쟁하여 도착 순위를 겨루는 지도 기반 게임화 서비스입니다.
 
@@ -32,9 +37,6 @@
 - 실시간 순위 변경 및 결과 리포트
 - TMap API 기반 대중교통 경로 탐색
 - SSE를 활용한 실시간 위치 업데이트
-
-### - Medium
-<a href="https://medium.com/@ruciano77/siliconvalley-bootcamp-team-h-had-better-adf553d2e1bd?postPublishedType=repub">[HAD-BETTER-Medium]</a>
 
 <br>
 </br>
